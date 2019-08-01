@@ -1,0 +1,6 @@
+ID da Venda*,Nome da Venda,Nº do Documento,Data do Documento*,ID Tipo de Rec.,Tipo de Recebimento,Valor de Venda (Bruto),Departamento,C.G.,Data de Recebimento,Taxa Tarifa,Valor Tarifa,Taxa IOF,Valor IOF,Valor Líq. a Receber
+1,Conta da Mesa 07,3031,2019-06-14,1,STONE VISA DEBITO,78.40,,,2019-06-15,"1,90%",2.00,3%,2.00,56.00
+1,Conta da Mesa 07,3031,2019-06-14,1,STONE MASTER CREDITO,35.00,,,2019-07-14,"1,50%",1.00,6%,1.00,45.34
+1,----,3031,2019-06-14,1,STONE MASTER CREDITO,45.00,,,2019-07-14,"1,50%",2.00,6%,2.00,60.43
+2,----,3032,2019-06-15,1,CIELO VISA CREDITO,200.00,,,2019-07-15,"1,50%",3.00,6%,3.00,200.43
+3,----,3033,2018-06-15,1,CIELO VISA CREDITO,90.00,,,2019-07-15,"1,50%",4.00,6%,4.00,400.00
